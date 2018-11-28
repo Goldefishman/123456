@@ -23,6 +23,7 @@ void printMsgs() {
         log4cplus::tstring(LOG4CPLUS_TEXT("This is a Error...")));
 
     cout << "Exiting printMsgs()..." << endl << endl;
+
 }
 
 
